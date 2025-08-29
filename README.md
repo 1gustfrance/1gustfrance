@@ -53,7 +53,7 @@ Tenho 24 anos e sou natural de Santo André. Graduado em Análise e Desenvolvime
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="230" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gustfrance&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
