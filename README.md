@@ -9,7 +9,6 @@ Atualmente, tenho focado meus estudo em <b>Java</b> e <b>C#</b>, com objetivo de
 
 Tenho 24 anos e sou natural de Santo André. Graduado em Análise e Desenvolvimento de Sistemas pela FATEC SCS - Faculdade de Tecnologia de São Caetano do Sul.
 
-<br>
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gstv.cabral1@gmail.com"
