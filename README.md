@@ -3,9 +3,9 @@
 **`Software Developer`**
 
 
-Olá, eu sou o Gustavo de França, desenvolvedor back-end comprometido a criar soluçoes modernas, funcionais e com propósito.
+Olá, eu sou o Gustavo de França, desenvolvedor back-end comprometido a criar soluções modernas, funcionais e com propósito.
 
-Atualmente, tenho focado meus estudo em <b>Java</b> e <b>C#</b>, com objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada na tecnologia.
+Atualmente, tenho focado meus estudos em <b>Java</b> e <b>C#</b>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada na tecnologia.
 
 Tenho 24 anos e sou natural de Santo André. Graduado em Análise e Desenvolvimento de Sistemas pela FATEC SCS - Faculdade de Tecnologia de São Caetano do Sul.
 
